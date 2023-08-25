@@ -1,0 +1,3 @@
+remover o assistente em libras antes de enviar o index.html para os alunos
+Explicar o fonte do google
+Explicar o ancora para link e site de uma página só
